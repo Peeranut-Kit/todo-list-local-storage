@@ -25,10 +25,6 @@ cd todo-list-local-storage
 
 npm install
 
-npm run dev
-bash```
-
-
-The app will be running on http://localhost:3000 .
+npm run dev```
 
 
