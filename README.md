@@ -18,7 +18,7 @@ A simple TodoList application that allows users to add, delete, edit tasks, and 
 
 ### 1. Clone the repository
 
-`git clone https://github.com/Peeranut-Kit/todo-list-local-storage.git`
+git clone https://github.com/Peeranut-Kit/todo-list-local-storage.git
 
 ### 2. Navigate to the project directory
 
