@@ -16,21 +16,15 @@ A simple TodoList application that allows users to add, delete, edit tasks, and 
 
 ## Getting Started
 
-### 1. Clone the repository
+Follow the steps below to get the project up and running:
 
-"git clone https://github.com/Peeranut-Kit/todo-list-local-storage.git"
+```bash git clone https://github.com/Peeranut-Kit/todo-list-local-storage.git
 
-### 2. Navigate to the project directory
+cd todo-list-local-storage
 
-```cd todo-list-local-storage```
+npm install
 
-### 3. Install the dependencies
-
-```npm install```
-
-### 4. Run the development server
-
-```npm run dev```
+npm run dev```
 
 The app will be running on http://localhost:3000 .
 
