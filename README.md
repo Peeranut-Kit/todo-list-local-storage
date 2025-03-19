@@ -25,6 +25,6 @@ cd todo-list-local-storage
 
 npm install
 
-npm run dev```
+npm run dev
 
 
